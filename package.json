@@ -1,0 +1,9 @@
+{
+  "name": "readable-timestamp-js",
+  "version": "1.0.0",
+  "description": "Help user create a human readable timestamp format",
+  "main": "index.js",
+  "repository": "git@github.com:fatcitydog/-fatcitydog-readable-timestamp-npm-pkg.git",
+  "author": "yikkk",
+  "license": "MIT"
+}
