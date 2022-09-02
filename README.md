@@ -1,5 +1,7 @@
 # Get a Readable, formatted and customized timestamp
 
+If you want to quickly set up a customized timestamp format, this might be the easiest way.
+
 ## Install
 
 ```
@@ -103,7 +105,7 @@ readableTimestamp(date, "D M, Y at h:m", "month")
 
 Yik
 
-<div align="center" id="badges">
+<div align="start" id="badges">
   <a href="https://www.linkedin.com/in/yik-tung-yeung/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
