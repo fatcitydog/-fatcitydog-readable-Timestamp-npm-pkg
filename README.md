@@ -6,8 +6,7 @@ If you want to quickly set up a customized timestamp format, this might be the e
 
 ```
 $ npm install readable-timestamp-js
-or
-$ yarn add readable-timestamp-js
+
 ```
 
 ## Usage
